@@ -1,0 +1,5 @@
+document.write("<h2>First Name:Michaela")
+document.write("<h2>Middle Name: Demilade")
+document.write("<h2>Last Name: Ebenezer")
+document.write("<h2>Height: 5'6")
+document.write("<h2>Country: Nigeria")
